@@ -136,3 +136,5 @@ CLI renders are inspired by [qrcode-terminal](https://github.com/gtanner/qrcode-
 [license-href]: https://github.com/unjs/uqr/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsDocs.io-reference-18181B?style=flat&colorA=18181B&colorB=F0DB4F
 [jsdocs-href]: https://www.jsdocs.io/package/uqr
+
+
